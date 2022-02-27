@@ -4,7 +4,7 @@ import 'package:interview_prep/Model/question_model.dart';
 final callSets = [
   question(
     number: "Q.1",
-    title: "What Is Face Yoga?",
+    title: "What Is.",
     paragraph:
         "Face yoga is similar to yoga for the body in that it consists of exercises and stretches that target the muscles in the face.",
     color: Color(0xFFb5651d),
