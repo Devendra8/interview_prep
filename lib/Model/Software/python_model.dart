@@ -8,11 +8,13 @@ class python {
   final String title;
   final String paragraph;
   final Color color;
+  final String source;
 
   python({
     required this.number,
     required this.title,
     required this.paragraph,
     required this.color,
+    required this.source,
   });
 }
